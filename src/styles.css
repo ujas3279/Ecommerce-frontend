@@ -3,7 +3,9 @@
 .nav :hover {
   border-radius: 0px;
 }
-
+#growth {
+  overflow-y: scroll;
+}
 body {
   background: #343a40;
 }
